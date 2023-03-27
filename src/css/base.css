@@ -309,7 +309,8 @@ a:focus-visible {
 
 .item__image {
   width: 100%;
-  aspect-ratio: 800/500;
+  object-fit: cover;
+  aspect-ratio: 1000/500;
   position: relative;
   overflow: hidden;
   will-change: transform;
