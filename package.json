@@ -1,5 +1,5 @@
 {
-  "name": "Juadebfm More Projects",
+  "name": "juadebfmmoreprojects",
   "version": "1.0.0",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "description": "",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/codrops/OnScrollViewSwitch.git"
+    "url": "git://github.com/Juadebfm/3D_Website_MoreProjects.git"
   },
   "keywords": [],
   "author": "Codrops",
   "license": "MIT",
-  "homepage": "https://tympanus.net/codrops",
+  "homepage": "https://juadebfm.com",
   "bugs": {
-    "url": "https://github.com/codrops/OnScrollViewSwitch/issues"
+    "url": "https://github.com/Juadebfm/3D_Website_MoreProjects.git"
   },
   "devDependencies": {
     "parcel": "^2.7.0"
